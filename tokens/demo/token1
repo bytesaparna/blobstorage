@@ -1,15 +1,12 @@
-
 {
   "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
   "external_url": "https://openseacreatures.io/3", 
-  "image": "https://raw.githubusercontent.com/bytesaparna/blobstorage/main/tokens/demo/token1.webp", 
+  "image": "https://raw.githubusercontent.com/bytesaparna/blobstorage/main/tokens/testbuild/1/token1.webp", 
   "name": "Dave Starbelly",
   "attributes": [
   {
       "trait_type": "CIVICIZE", 
       "value": "100uandr"
-    }, 
-  
-    
+  }
   ]
 }
