@@ -1,1 +1,23 @@
 
+
+
+{
+  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "https://raw.githubusercontent.com/bytesaparna/blobstorage/main/tokens/SocialLoom/SLM-1.jpg", 
+  "name": "SocialLoom",
+  "attributes": [
+  {
+      "trait_type": "SLM-7", 
+      "value": "200uandr"
+    }, 
+    {
+      "trait_type": "Minting date of SLM-7", 
+      "value": "4th April 2024"
+    }, 
+    {
+      "trait_type": "Cause", 
+      "value": "Bring water tanker in the society"
+    }
+   ]
+}
