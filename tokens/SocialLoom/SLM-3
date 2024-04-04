@@ -2,7 +2,7 @@
   "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
   "external_url": "https://openseacreatures.io/3", 
   "image": "https://raw.githubusercontent.com/bytesaparna/blobstorage/main/tokens/SocialLoom/SLM-11.jpg", 
-  "name": "Dave Starbelly",
+  "name": "SocialLoom",
   "attributes": [
   {
       "trait_type": "SLM-3", 
