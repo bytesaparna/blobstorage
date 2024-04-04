@@ -11,13 +11,13 @@
       "value": "200uandr"
     }, 
     {
-      "trait_type": "Image", 
-      "value": "200uandr"
+      "trait_type": "Minting Date SLM-2", 
+      "value": "04/04/2024"
     }, 
     {
-      "display_type": "number", 
-      "trait_type": "Generation", 
-      "value": 2
+      "display_type": "Cause", 
+      "trait_type": "Bring water tanker in society", 
+      "value": 
     }
   ]
 }
