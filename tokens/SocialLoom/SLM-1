@@ -1,1 +1,22 @@
 
+{
+  "description": "SocialLoom NFT raised for removing water scarcity issue in local community", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "https://raw.githubusercontent.com/bytesaparna/blobstorage/main/tokens/SocialLoom/SLM-1.jpg", 
+  "name": "SocialLoom",
+  "attributes": [
+  {
+      "trait_type": "SLM-1", 
+      "value": "200uandr"
+    }, 
+    {
+      "trait_type": "Image", 
+      "value": "200uandr"
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 2
+    }
+  ]
+}
