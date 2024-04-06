@@ -1,1 +1,22 @@
 
+
+{
+  "description": "BIDBoost is a platform where various government tenders are shown time to time and gives an unbiased way forbidders to win.", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "https://raw.githubusercontent.com/bytesaparna/blobstorage/main/tokens/govv/gov1.jpg", 
+  "name": "BidBoost",
+  "attributes": [
+  {
+      "trait_type": "BBST-1", 
+      "value": "5000000000uandr"
+    }, 
+    {
+      "trait_type": "Minting date of BBST-1", 
+      "value": "06/04/2024"
+    }, 
+    {
+      "trait_type": "Tender for Canteen in PGI Chandigarh", 
+      "value": "Sector 14"
+    }
+   ]
+}
