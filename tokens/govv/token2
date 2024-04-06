@@ -4,20 +4,20 @@
 {
   "description": "BIDBoost is a platform where various government tenders are shown time to time and gives an unbiased way forbidders to win.", 
   "external_url": "https://openseacreatures.io/3", 
-  "image": "https://raw.githubusercontent.com/bytesaparna/blobstorage/main/tokens/govv/gov2.jpg", 
+  "image": "https://raw.githubusercontent.com/bytesaparna/blobstorage/main/tokens/govv/gov3.jpg", 
   "name": "BidBoost",
   "attributes": [
   {
-      "trait_type": "BBST-2", 
-      "value": "780000000000uandr"
+      "trait_type": "BBST-3", 
+      "value": "900000000000uandr"
     }, 
     {
-      "trait_type": "Minting date of BBST-2", 
-      "value": "07/04/2024"
+      "trait_type": "Minting date of BBST-3", 
+      "value": "05/04/2024"
     }, 
     {
-      "trait_type": "Road Tender", 
-      "value": "Zirakpur near Gurudwara"
+      "trait_type": "Sewage Pipeline", 
+      "value": "Lohgarh near Zirakpur"
     }
    ]
 }
