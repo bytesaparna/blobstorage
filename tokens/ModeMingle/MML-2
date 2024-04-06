@@ -1,1 +1,29 @@
-
+{
+  "description": "Creative Design of budding Fashionista.", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "https://raw.githubusercontent.com/bytesaparna/blobstorage/main/tokens/ModeMingle/Dress2.jpg", 
+  "name": "Fashionista2",
+  "attributes": [
+  {
+      "trait_type": "Dress type", 
+      "value": "Co-ord Set"
+    }, 
+  
+    {
+      "trait_type": "Price", 
+      "value": 600000uandr
+    }, 
+ {
+      "trait_type": "Description of dress", 
+      "value": "Full embroidery satin material royal look two piece set."
+    }, 
+ {
+      "trait_type": "Designed on", 
+      "value": "07/05/2024"
+    }, 
+    {
+      "trait_type": "Desighned by", 
+      "value": "Fashionista two"
+    }
+   ]
+}
