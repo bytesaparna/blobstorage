@@ -1,1 +1,29 @@
-
+{
+  "description": "Creative Design of budding Fashionista.", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "https://raw.githubusercontent.com/bytesaparna/blobstorage/main/tokens/ModeMingle/Dress1.jpg", 
+  "name": "Fashionista1",
+  "attributes": [
+  {
+      "trait_type": "Dress type", 
+      "value": "Flared gown"
+    }, 
+  
+    {
+      "trait_type": "Price", 
+      "value": 500000uandr
+    }, 
+ {
+      "trait_type": "Description of dress", 
+      "value": " Made with net material,embroidery and lace designs."
+    }, 
+ {
+      "trait_type": "Designed on", 
+      "value": "06/04/2024"
+    }, 
+    {
+      "trait_type": "Desighned by", 
+      "value": "Fashionista one"
+    }
+   ]
+}
