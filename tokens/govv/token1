@@ -1,1 +1,23 @@
 
+
+
+{
+  "description": "BIDBoost is a platform where various government tenders are shown time to time and gives an unbiased way forbidders to win.", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "https://raw.githubusercontent.com/bytesaparna/blobstorage/main/tokens/govv/gov3.webp", 
+  "name": "BidBoost",
+  "attributes": [
+  {
+      "trait_type": "BBST-4", 
+      "value": "860000000000uandr"
+    }, 
+    {
+      "trait_type": "Minting date of BBST-4", 
+      "value": "05/06/2024"
+    }, 
+    {
+      "trait_type": "Road Contract in zirakpur", 
+      "value": "Zirakpur"
+    }
+   ]
+}
