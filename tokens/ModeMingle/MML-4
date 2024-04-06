@@ -1,1 +1,22 @@
 
+
+{
+  "description": "ModeMingle provides a platform for the budding designers  at a very early stage of their life.", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "https://raw.githubusercontent.com/bytesaparna/blobstorage/main/tokens/ModeMingle/Dress3.jpg", 
+  "name": "ModeMingle",
+  "attributes": [
+  {
+      "trait_type": "MMGL-4", 
+      "value": "560000uandr"
+    }, 
+    {
+      "trait_type": "Minting date of MMGL-4", 
+      "value": "02/06/2024"
+    }, 
+    {
+      "trait_type": "Designed by", 
+      "value": "StudentD"
+    }
+   ]
+}
