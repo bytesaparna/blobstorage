@@ -8,11 +8,11 @@
   "name": "BidBoost",
   "attributes": [
   {
-      "trait_type": "BBST-4", 
+      "trait_type": "BBST-5", 
       "value": "860000000000uandr"
     }, 
     {
-      "trait_type": "Minting date of BBST-4", 
+      "trait_type": "Minting date of BBST-5", 
       "value": "05/06/2024"
     }, 
     {
