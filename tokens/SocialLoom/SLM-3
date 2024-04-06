@@ -1,7 +1,7 @@
 {
   "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
   "external_url": "https://openseacreatures.io/3", 
-  "image": "https://raw.githubusercontent.com/bytesaparna/blobstorage/main/tokens/SocialLoom/SLM-1.jpg", 
+  "image": "https://raw.githubusercontent.com/bytesaparna/blobstorage/main/tokens/SocialLoom/SLM-11.jpg", 
   "name": "SocialLoom",
   "attributes": [
   {
@@ -10,7 +10,7 @@
     }, 
     {
       "trait_type": "Minting date of SLM-3", 
-      "value": "4th April 2024"
+      "value": "06/04/2024"
     }, 
     {
       "trait_type": "Cause", 
